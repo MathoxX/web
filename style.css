@@ -1,0 +1,23 @@
+body {
+ font-family: $body-font;
+background: linear-gradient(15deg, #59B7F0, #e66465, #FF2626);
+background-repeat: no-repeat;
+background-size: cover;
+
+height: 100vh;
+width: 100%;
+filter:blur (500vh);
+}
+
+
+/********************
+	menu 
+*********************/
+
+
+/********************
+	telephone
+*********************/
+@media (max-width:720px) {
+
+}
